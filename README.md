@@ -15,7 +15,7 @@ It's a simple todo list application made with react for ASTS candidate selection
 2. Open this project root folder in your local system in cmd or visual studio code terminal and run npm install to install all the dependencies.
 3. Once the installation is done run `npm start` to run the project.
 
-# Getting Started with Create React App
+## Other information about the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
