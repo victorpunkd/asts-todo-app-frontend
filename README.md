@@ -4,16 +4,16 @@ It's a simple todo list application made with react for ASTS candidate selection
 
 ## Prerequisite to run this App
 
-    1. Node JS need to be installed.
-    2. Backend app should run on localhost:8080 , if you have run the backend in some different port change the path from - ./src/CommonControls/apiEndpoint.js - endpoint.
-       Backend repo link - [link](https://github.com/victorpunkd/asts-todo-app-backend)
-    3. Git is optional.
+    Node JS need to be installed.
+    Backend app should run on localhost:8080 , if you have run the backend in some different port change the path from - ./src/CommonControls/apiEndpoint.js - endpoint.
+    Backend repo link - [link](https://github.com/victorpunkd/asts-todo-app-backend)
+    Git is optional.
 
 ## How to run this app locally
 
-    1. Git clone this repo to your local system - `git clone https://github.com/victorpunkd/asts-todo-app-frontend.git`, if you dont have Git you can just download the entire repo.
-    2. Open this project root folder in your local system in cmd or visual studio code terminal and run npm install to install all the dependencies.
-    3. Once the installation is done run `npm start` to run the project.
+    Git clone this repo to your local system - `git clone https://github.com/victorpunkd/asts-todo-app-frontend.git`, if you dont have Git you can just download the entire repo.
+    Open this project root folder in your local system in cmd or visual studio code terminal and run npm install to install all the dependencies.
+    Once the installation is done run `npm start` to run the project.
 
 # Getting Started with Create React App
 
