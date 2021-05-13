@@ -44,7 +44,7 @@ const ToDoListContainer: React.FC<Props> = ({ data }) => {
           style={{
             backgroundColor: "#7DDCFB",
             height: "100%",
-            minHeight: "500px",
+            minHeight: "50vh",
           }}
         >
           <div className="allTodosSubSection">

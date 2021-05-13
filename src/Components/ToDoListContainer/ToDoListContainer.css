@@ -6,8 +6,8 @@
   transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   overflow-y: scroll;
-  max-height: 500px;
-  min-height: 500px;
+  max-height: 50vh;
+  min-height: 50vh;
 }
 
 .todoHeaderCard {
