@@ -1,0 +1,61 @@
+.toDoDetailsContainer {
+  width: 50%;
+  margin: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  background-color: white;
+}
+
+.loader {
+  width: 50%;
+  margin: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+
+.toDoDetailsHeading {
+  margin-top: 5px;
+  text-align: center;
+  font-weight: 600;
+  color: white;
+  font-size: 20px;
+}
+
+.toDoDetailsBody {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.toDoDetailsItem {
+  margin-top: 10px;
+  border-radius: 5px;
+  text-align: left;
+  padding: 20px 5px;
+  border-right: 5px solid #fe658d;
+}
+
+.toDoItemHeader {
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 10px;
+  color: #ae8495;
+}
+
+.toDoItemDetail {
+  font-size: 15px;
+  color: gray;
+}
+
+.toDoItemStatusInProgress {
+  font-weight: bold;
+  color: red;
+}
+
+.toDoItemStatusCompleted {
+  font-weight: bold;
+  color: green;
+}

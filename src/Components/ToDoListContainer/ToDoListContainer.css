@@ -1,0 +1,43 @@
+.toDoListContainer {
+  width: 50%;
+  margin: auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  overflow-y: scroll;
+  max-height: 500px;
+  min-height: 500px;
+}
+
+.todoHeaderCard {
+  width: 100%;
+  background-color: #fe658d;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px gray;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.headerItem {
+  text-align: left;
+}
+
+.allTodos {
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+.allTodosSubSection {
+  width: 99%;
+  margin: auto;
+  padding: 5px 5px 5px 5px;
+}
+
+.noDataMessage {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 50px;
+}
